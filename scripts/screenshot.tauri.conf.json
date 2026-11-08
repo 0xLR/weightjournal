@@ -1,0 +1,19 @@
+{
+  "app": {
+    "windows": [
+      {
+        "title": "Weight Journal",
+        "width": 460,
+        "height": 640,
+        "minWidth": 340,
+        "minHeight": 450,
+        "resizable": true,
+        "decorations": false,
+        "transparent": false,
+        "backgroundColor": "#12141d",
+        "shadow": true,
+        "center": true
+      }
+    ]
+  }
+}
